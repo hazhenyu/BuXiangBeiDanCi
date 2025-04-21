@@ -84,9 +84,9 @@ vocabulary-learning-assistant/
 │   ├── database.h        # 数据库接口
 │   └── dzy.h             # 辅助类定义
 ├── resources/
-│   ├── audio/           # 音频资源
-│   └── images/          # 图片资源
-└── docs/                # 文档
+│   ├── audio/            # 音频资源
+│   └── images/           # 图片资源
+└── docs/                 # 文档
 
 ## 许可证
 
@@ -98,5 +98,3 @@ vocabulary-learning-assistant/
 
 - 项目GitHub仓库: [https://github.com/[hazhenyu/BuXiangBeiDanCi](https://github.com/hazhenyu/BuXiangBeiDanCi)](https://github.com/yourusername/dzy)
 - 电子邮件: 2499816052@qq.com
-
-
