@@ -74,18 +74,31 @@
 ## 项目结构
 
 vocabulary-learning-assistant/
+
 ├── src/
+
 │   ├── main.cpp          # 程序入口
+
 │   ├── zhu.cpp           # 主要功能实现
+
 │   ├── database.cpp      # 数据库操作
+
 │   └── dzy.cpp           # 辅助功能类
+
 ├── include/
+
 │   ├── zhu.h             # 主类头文件
+
 │   ├── database.h        # 数据库接口
+
 │   └── dzy.h             # 辅助类定义
+
 ├── resources/
+
 │   ├── audio/            # 音频资源
+
 │   └── images/           # 图片资源
+
 └── docs/                 # 文档
 
 ## 许可证
